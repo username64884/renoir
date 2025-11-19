@@ -44,6 +44,6 @@ PRODUCT_PRODUCT_PROPERTIES += \
 PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE=renoir \
     PRODUCT_NAME=renoir \
-    PRIVATE_BUILD_DESC="renoir-user 13 TKQ1.221114.001 V14.0.6.0.TKOIDXM release-keys"
+    PRIVATE_BUILD_DESC="renoir-user 13 TKQ1.220829.002 V14.0.6.0.TKOIDXM release-keys"
 
-BUILD_FINGERPRINT := Xiaomi/renoir/renoir:13/TKQ1.221114.001/V14.0.6.0.TKOIDXM:user/release-keys
+BUILD_FINGERPRINT := Xiaomi/renoir/renoir:13/TKQ1.220829.002/V14.0.6.0.TKOIDXM:user/release-keys
