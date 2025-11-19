@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_renoir.mk
+    $(LOCAL_DIR)/twrp_renoir.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_renoir-user \
-    omni_renoir-userdebug \
-    omni_renoir-eng
+    twrp_renoir-user \
+    twrp_renoir-userdebug \
+    twrp_renoir-eng

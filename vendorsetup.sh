@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_renoir-user
-add_lunch_combo omni_renoir-userdebug
-add_lunch_combo omni_renoir-eng
+add_lunch_combo twrp_renoir-user
+add_lunch_combo twrp_renoir-userdebug
+add_lunch_combo twrp_renoir-eng
